@@ -1998,4 +1998,12 @@ F 3 "" H 7350 1450 50  0001 C CNN
 $EndComp
 Text Label 7200 1250 2    60   ~ 0
 AUDIO_R
+Text Label 2700 2400 0    60   ~ 0
+SCART_B
+Text Label 2700 2000 0    60   ~ 0
+SCART_G
+Text Label 2700 2800 0    60   ~ 0
+SCART_R
+Text Label 2700 3200 0    60   ~ 0
+SCART_SYNC
 $EndSCHEMATC
