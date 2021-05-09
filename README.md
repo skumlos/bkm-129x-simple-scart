@@ -6,6 +6,12 @@ Including a mono mixing circuit from SCART audio to RCA out, for monitors with i
 
 Requires Arduino Nano v3.0 loaded with the software from https://github.com/skumlos/bkm-129x-mcu
 
+Revision history:
+
+B: Fixed THS7374 filter bypass, change to Kicad 5
+
+A: Initial revision
+
 Copyright © 2020 Martin Hejnfelt <martin@hejnfelt.com>
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
